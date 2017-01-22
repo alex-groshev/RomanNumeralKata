@@ -1,0 +1,7 @@
+bin/
+obj/
+.idea/
+packages/
+*.lock.json
+.DS_Store
+.gitignore.swp
